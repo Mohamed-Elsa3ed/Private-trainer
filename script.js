@@ -417,7 +417,7 @@ form.addEventListener("submit", function(e){
 • Goal:
 ${goal}`;
 
-    const phone = "201020386675"; // حط رقمك هنا
+    const phone = "201000146914"; // حط رقمك هنا
 
     const url =
 `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
